@@ -1,0 +1,10 @@
+font-family: Helvetica, Arial, Verdana, sans-serif;
+font-size: 14px;
+line-height: 15px;
+-webkit-font-smoothing: subpixel-antialiased;
+-webkit-text-size-adjust: 100%;
+list-style-type: none;
+box-sizing: border-box;
+-webkit-tap-highlight-color: transparent;
+color: #888;
+display: block;

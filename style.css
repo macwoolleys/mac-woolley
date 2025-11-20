@@ -14,3 +14,14 @@ body {
     width: 100%;
 
 }
+
+.full-width-text {
+    width: 100%;
+    box-sizing: border-box; /* Include padding and border in the element's total width */
+    padding: 0 20px; /* Add some padding to prevent text from touching the edges */
+  }
+
+  .img-responsive {
+    display: flex;
+    justify-content: center;
+  }

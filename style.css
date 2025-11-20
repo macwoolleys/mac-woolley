@@ -12,6 +12,8 @@ body {
     text-align: center;    
     bottom: 0px; 
     width: 100%;
+    display: flex;
+    justify-content: center;
 
 }
 
